@@ -29,7 +29,6 @@ gse53757-expression-classifier/
 │   ├── confusion_matrix_N5_SVM.png
 │   └── summary_results.csv             # Tabular summary of metrics
 ├── requirements.txt                    # Exact Python dependencies
-├── .gitignore                          # Files/folders to ignore in Git
 └── README.md                           # This documentation
 ```
 
