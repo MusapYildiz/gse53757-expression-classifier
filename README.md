@@ -77,7 +77,7 @@ pip install -r requirements.txt
 Run the full classification pipeline with a single command:
 
 ```bash
-python src/main.py
+python3 src/main.py
 ```
 
 ---
